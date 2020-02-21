@@ -8,5 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
-
+print("Hello From Swift Land")
+ObjcSwiftWrapper.objcWrapperMain()
+CppMmClass.cppMain()
+SwiftCWrapper.cwrapperMain()
